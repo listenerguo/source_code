@@ -2,7 +2,7 @@
 
 ## 📋 Prerequisites
 
-- **Operating System**: Ubuntu 20.04 (or compatible Linux distribution)
+- **Operating System**: Ubuntu 20.04
 - **Python**: Version 3.9
 - **Required Packages**:
   ```bash
