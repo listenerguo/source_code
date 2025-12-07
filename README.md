@@ -2,8 +2,8 @@
 
 ## 📋 Prerequisites
 
-- **Operating System**: Ubuntu 20.04 or compatible Linux distribution
-- **Python**: Version 3.9 (or higher)
+- **Operating System**: Ubuntu 20.04
+- **Python**: Version 3.9
 - **Required Python Packages**:
   ```bash
   pip install pympsym matplotlib networkx
